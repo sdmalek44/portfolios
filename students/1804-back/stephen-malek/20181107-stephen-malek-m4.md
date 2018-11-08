@@ -17,7 +17,7 @@ Our exposure to more front end technologies this mod was great. Learning interes
 I know that I am not always going to know everything about every technology or framework. Turing has given me the confidence that even if I don't know something I can figure out how to do it quickly and without anyone holding my hand. That being said I have learned from Turing to be humble about my knowledge because there is always more to know especially in the tech industry.  
 
 * What was your biggest takeaway from Gear Ups while at Turing? How has that impacted you and how will it impact you and your co-workers when you are on the job?  
-The biggest thing I took away from the Gear Ups at Turing is to never assume something about someones experience. Everyone comes from a different background, culture, and no one was brought up exactly the same way. When you assume things about someone of a certain race, sex, gender, etc. it brings people further apart. You should listen to people when they share their struggles and support them because you can't possibly know what someone else has been through since every persons experience is unique.
+The biggest thing I took away from the Gear Ups at Turing is to never assume something about someones experience. Everyone comes from a different background, culture, and no one was brought up exactly the same way. When you assume things about someone of a certain race, gender, etc. it brings people further apart. You should listen to people when they share their struggles and support them because you can't possibly know what someone else has been through since every persons experience is unique.
 
 
 ### 30 Day Plan  
