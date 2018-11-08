@@ -1,4 +1,4 @@
-# First Last - M2 Portfolio
+# M2 Portfolio
 
 ## Areas of Emphasis
 
@@ -8,7 +8,15 @@ What did you struggle most with this module? What did you learn from that strugg
 
 ## Blog
 
-Link your blog post here. Include a short description of your topic (one sentence is fine).
+Link: 
+
+Summary (1-3 sentences):
+
+## ActiveRecord Obstacle Course
+Link:
+
+Was this helpful for practicing ActiveRecord?
+
 
 ## Projects
 
@@ -16,25 +24,39 @@ What were your favorite projects this module? Least favorite? Why?
 
 What did you learn from your independent projects?
 
-What did you learn from your paired projects?
+What did you learn from your paired/group projects?
 
-## Community
 
-What was your favorite Gear Up? Least favorite? Why?
+## Community 
 
 How did you contribute to the Turing community this module?
 
+
 What would you like to do to contribute next module?
+
+### Member of a Posse
+
+What did you do with your posse over this module?
+
+What is your favorite thing about the posse experience?
+
+How has your posse expereince helped you grow as a professional?
 
 ## Self-Assessment Scores
 
-Fill in how you would grade yourself from 1-4 in the following categories this module.
+Fill in how **you** would grade yourself from 1-4 in the following categories this module.
+
+1. Below Standard
+2. Approaching Standard
+3. Meets Standard
+4. Above Standard
+
 
 | Category                     | Score |
 | -----------------------------| ----- |
-| **Individual Projects**      |   X   |
-| **Group Projects**           |   X   |
-| **Professional Development** |   X   |
-| **Community**                |   X   |
-| **Final Written**            |   X   |
-| **Final Timed**              |   X   |
+| **Individual Projects**      |       |
+| **Group Projects**           |       |
+| **Professional Development** |       |
+| **Community**                |       |
+| **Final Paired**             |       |
+| **Final Verbal**             |       |
